@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\category_tab.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\category_tab.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\city_main_click.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\city_main_click.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\textviewmore.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\textviewmore.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\second_menu_dialog.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\second_menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_menu_item.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_menu_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\city_pop_main_layout.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\city_pop_main_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\base.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\three_menu_dialog.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\three_menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pager_number.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pager_number.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\city_picker.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\city_picker.xml"
+    }
+]

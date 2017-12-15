@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_left.png",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable-hdpi\\shadow_left.png"
+    }
+]

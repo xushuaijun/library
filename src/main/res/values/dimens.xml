@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+
+    <!--                字体大小型号                                        -->
+
+    <!-- 超小标题字号 -->
+    <dimen name="font_ten">10sp</dimen>
+    <!-- 很小标题字号 -->
+    <dimen name="font_twelve">12sp</dimen>
+    <!-- 小标题字号 -->
+    <dimen name="font_fourteen">14sp</dimen>
+    <!-- 中标题字号 -->
+    <dimen name="font_Sixteen">16sp</dimen>
+    <!-- 大标题字号 -->
+    <dimen name="font_Eighteen">18sp</dimen>
+    <!-- 超大标题字号 -->
+    <dimen name="font_Twenty">20sp</dimen>
+    <!-- 特大标题字号 -->
+    <dimen name="font_22">22sp</dimen>
+    <dimen name="font_TwentyFour">24sp</dimen>
+
+    <dimen name="shadow_width">5dp</dimen>
+    <dimen name="slidingmenu_offset">60dp</dimen>
+
+    <!--导航栏-->
+    <dimen name="category_tab_text">15.0sp</dimen>
+
+</resources>

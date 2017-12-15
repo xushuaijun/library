@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+<LinearLayout
+    android:id="@+id/ll_pull_img"
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:gravity="center_vertical"
+    android:clickable="true"
+    android:layout_height="wrap_content"
+    android:paddingTop="5dp"
+    android:paddingBottom="8dp">
+    <ImageView
+        android:id="@+id/iv_pull_down"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/text_pull_down"
+        android:padding="5dp"/>
+</LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_pull_down"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:paddingBottom="8dp"
+        android:clickable="true"
+        android:gravity="right">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="本方案由 "
+            android:textColor="#b3a5a5"
+            android:textSize="10sp"/>
+        <TextView
+            android:id="@+id/tv_vedio_provider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:textSize="11sp"
+            android:text="经络名家卢星宇"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#b3a5a5"
+            android:textSize="10sp"
+            android:text=" 提供"/>
+    </LinearLayout>
+
+</LinearLayout>

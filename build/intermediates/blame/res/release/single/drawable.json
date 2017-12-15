@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\release\\drawable\\bg_category_indicator.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable\\bg_category_indicator.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\release\\drawable\\city_select_line.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable\\city_select_line.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\release\\drawable\\fullscreen_share_bg.9.png",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable\\fullscreen_share_bg.9.png"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_category_left_edge.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable\\ic_category_left_edge.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

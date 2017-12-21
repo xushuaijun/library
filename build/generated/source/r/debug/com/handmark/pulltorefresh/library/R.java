@@ -496,9 +496,13 @@ containing a value of this type.
     }
     public static final class style {
         public static int AnimTop2=0x7f090000;
+        /** 模糊
+         */
         public static int MyDialogStyleButton=0x7f090001;
         public static int RegDialogAnimation=0x7f090002;
         public static int dialog_change_card=0x7f090003;
+        /**  指定消失的动画xml 
+         */
         public static int mypopwindow_anim_style=0x7f090004;
     }
     public static final class styleable {

@@ -89,11 +89,11 @@
     </style>
     <style name="MyDialogStyleButton" parent="android:Theme.NoTitleBar.Fullscreen">
         <item name="android:windowAnimationStyle">@style/AnimTop2</item>
-        <item name="android:windowFrame">@null</item>
-        <item name="android:windowIsTranslucent">true</item>
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowBackground">@android:color/transparent</item>
-        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsTranslucent">true</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
     </style>
     <style name="RegDialogAnimation" parent="@android:style/Animation.Dialog">
         <item name="android:windowEnterAnimation">@anim/attention_guide_in</item>
@@ -110,9 +110,9 @@
     </style>
     <style name="mypopwindow_anim_style">
         <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
-        
+        <!-- 指定显示的动画xml -->
 
         <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
-        
+        <!-- 指定消失的动画xml -->
     </style>
 </resources>

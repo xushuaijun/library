@@ -87,7 +87,14 @@
                     "endOffset": 312
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 39,
+                        "endOffset": 456
+                    }
                 }
             },
             {
@@ -175,7 +182,14 @@
                     "endOffset": 586
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 45,
+                        "endOffset": 198
+                    }
                 }
             },
             {
@@ -187,7 +201,14 @@
                     "endOffset": 633
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
                 }
             },
             {
@@ -199,7 +220,14 @@
                     "endOffset": 684
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 50,
+                        "endOffset": 151
+                    }
                 }
             },
             {
@@ -458,7 +486,14 @@
                     "endOffset": 1354
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 52,
+                        "endOffset": 415
+                    }
                 }
             },
             {
@@ -470,7 +505,14 @@
                     "endOffset": 1413
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 58,
+                        "endOffset": 301
+                    }
                 }
             },
             {
@@ -482,7 +524,14 @@
                     "endOffset": 1472
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 58,
+                        "endOffset": 361
+                    }
                 }
             },
             {
@@ -722,7 +771,14 @@
                     "endOffset": 2082
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 39,
+                        "endOffset": 241
+                    }
                 }
             },
             {
@@ -753,7 +809,14 @@
                     "endOffset": 5122
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 38,
+                        "endOffset": 858
+                    }
                 }
             },
             {
@@ -765,7 +828,14 @@
                     "endOffset": 5167
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 44,
+                        "endOffset": 736
+                    }
                 }
             },
             {
@@ -777,7 +847,14 @@
                     "endOffset": 5211
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 43,
+                        "endOffset": 672
+                    }
                 }
             },
             {
@@ -789,7 +866,14 @@
                     "endOffset": 5254
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 42,
+                        "endOffset": 799
+                    }
                 }
             },
             {
@@ -801,7 +885,14 @@
                     "endOffset": 5301
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 46,
+                        "endOffset": 905
+                    }
                 }
             },
             {
@@ -813,7 +904,14 @@
                     "endOffset": 5346
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 44,
+                        "endOffset": 609
+                    }
                 }
             },
             {
@@ -825,7 +923,14 @@
                     "endOffset": 5386
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 39,
+                        "endOffset": 482
+                    }
                 }
             },
             {
@@ -837,7 +942,14 @@
                     "endOffset": 5429
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 42,
+                        "endOffset": 545
+                    }
                 }
             },
             {
@@ -849,7 +961,14 @@
                     "endOffset": 5493
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 63,
+                        "endOffset": 282
+                    }
                 }
             },
             {
@@ -861,7 +980,14 @@
                     "endOffset": 5557
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 63,
+                        "endOffset": 346
+                    }
                 }
             },
             {
@@ -873,7 +999,14 @@
                     "endOffset": 5612
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 54,
+                        "endOffset": 161
+                    }
                 }
             },
             {
@@ -885,7 +1018,14 @@
                     "endOffset": 5669
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 56,
+                        "endOffset": 218
+                    }
                 }
             },
             {
@@ -897,7 +1037,14 @@
                     "endOffset": 5724
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
                 }
             },
             {
@@ -909,7 +1056,14 @@
                     "endOffset": 5767
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 42,
+                        "endOffset": 949
+                    }
                 }
             },
             {
@@ -921,7 +1075,14 @@
                     "endOffset": 5817
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 954,
+                        "endColumn": 49,
+                        "endOffset": 999
+                    }
                 }
             },
             {
@@ -933,7 +1094,14 @@
                     "endOffset": 5855
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\ids.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
                 }
             },
             {
@@ -945,7 +1113,14 @@
                     "endOffset": 5895
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\ids.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 40,
+                        "endOffset": 169
+                    }
                 }
             },
             {
@@ -957,7 +1132,14 @@
                     "endOffset": 5932
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\ids.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 37,
+                        "endOffset": 128
+                    }
                 }
             },
             {
@@ -969,7 +1151,14 @@
                     "endOffset": 6034
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 101,
+                        "endOffset": 487
+                    }
                 }
             },
             {
@@ -981,7 +1170,14 @@
                     "endOffset": 6148
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 113,
+                        "endOffset": 709
+                    }
                 }
             },
             {
@@ -993,7 +1189,14 @@
                     "endOffset": 6256
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 107,
+                        "endOffset": 595
+                    }
                 }
             },
             {
@@ -1005,7 +1208,14 @@
                     "endOffset": 6328
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 71,
+                        "endOffset": 123
+                    }
                 }
             },
             {
@@ -1017,7 +1227,14 @@
                     "endOffset": 6398
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 69,
+                        "endOffset": 271
+                    }
                 }
             },
             {
@@ -1029,7 +1246,14 @@
                     "endOffset": 6476
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 77,
+                        "endOffset": 201
+                    }
                 }
             },
             {
@@ -1042,7 +1266,15 @@
                     "endOffset": 6703
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 556
+                    }
                 }
             },
             {
@@ -1052,49 +1284,81 @@
                     "startOffset": 6708,
                     "endLine": 96,
                     "endColumn": 12,
-                    "endOffset": 7186
+                    "endOffset": 7235
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1099
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 7191,
+                    "startOffset": 7240,
                     "endLine": 100,
                     "endColumn": 12,
-                    "endOffset": 7442
+                    "endOffset": 7491
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1944
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 7447,
+                    "startOffset": 7496,
                     "endLine": 109,
                     "endColumn": 12,
-                    "endOffset": 7977
+                    "endOffset": 8026
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1645
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 7982,
+                    "startOffset": 8031,
                     "endLine": 116,
                     "endColumn": 12,
-                    "endOffset": 8204
+                    "endOffset": 8291
                 },
                 "from": {
-                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\xmh\\project\\Waterdemo\\WaterStewardDemo\\library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 323
+                    }
                 }
             }
         ]
